@@ -23,7 +23,7 @@ namespace _01Bevezetes
             Console.Write("Sziasztok itt vagyok");
             Console.WriteLine("Sziasztok itt vagyok");
             Console.WriteLine("Sziasztok itt vagyok");
-            //Console.ReadLine();
+            Console.ReadLine();
         }
     }
 }
